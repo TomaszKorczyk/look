@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TomaszKorczyk/look.git/static/css/main.073c9b0a.css",
-    "main.js": "/TomaszKorczyk/look.git/static/js/main.f974fc0b.js",
-    "static/js/787.f968c753.chunk.js": "/TomaszKorczyk/look.git/static/js/787.f968c753.chunk.js",
-    "index.html": "/TomaszKorczyk/look.git/index.html",
-    "main.073c9b0a.css.map": "/TomaszKorczyk/look.git/static/css/main.073c9b0a.css.map",
-    "main.f974fc0b.js.map": "/TomaszKorczyk/look.git/static/js/main.f974fc0b.js.map",
-    "787.f968c753.chunk.js.map": "/TomaszKorczyk/look.git/static/js/787.f968c753.chunk.js.map"
+    "main.css": "/look/static/css/main.073c9b0a.css",
+    "main.js": "/look/static/js/main.ac5a6986.js",
+    "static/js/787.f968c753.chunk.js": "/look/static/js/787.f968c753.chunk.js",
+    "index.html": "/look/index.html",
+    "main.073c9b0a.css.map": "/look/static/css/main.073c9b0a.css.map",
+    "main.ac5a6986.js.map": "/look/static/js/main.ac5a6986.js.map",
+    "787.f968c753.chunk.js.map": "/look/static/js/787.f968c753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f974fc0b.js"
+    "static/js/main.ac5a6986.js"
   ]
 }
