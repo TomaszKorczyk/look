@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/look/static/css/main.6e7a0320.css",
-    "main.js": "/look/static/js/main.694e8575.js",
+    "main.css": "/look/static/css/main.96313284.css",
+    "main.js": "/look/static/js/main.af8ae400.js",
     "static/media/signup.jpg": "/look/static/media/signup.4bc0f3c69da0b9de5eae.jpg",
     "index.html": "/look/index.html",
-    "main.6e7a0320.css.map": "/look/static/css/main.6e7a0320.css.map",
-    "main.694e8575.js.map": "/look/static/js/main.694e8575.js.map"
+    "main.96313284.css.map": "/look/static/css/main.96313284.css.map",
+    "main.af8ae400.js.map": "/look/static/js/main.af8ae400.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7a0320.css",
-    "static/js/main.694e8575.js"
+    "static/css/main.96313284.css",
+    "static/js/main.af8ae400.js"
   ]
 }
